@@ -1,2 +1,1 @@
-import canvas from 'dist/Canvas';
-canvas('ss');
+import canvas from './Canvas.js';
